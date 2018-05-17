@@ -6,4 +6,4 @@ My project portfolio
 <script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/joshuaparrales2020/the-commons'></script>
 
 Project Descriptions 
-The pinpoint middle of the school is called "The Commons". If ever stepped in this is High School this is how the surrounding view would be like.
+I chose the bus area because without the help of buses,  lot of the students wouldn't get to school. The school district buses are very helpful!
