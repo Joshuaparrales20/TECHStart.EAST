@@ -5,6 +5,5 @@ My project portfolio
 
 <script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/joshuaparrales2020/the-project'></script>
 
-Project Description
-
-The middle of the school called "the commons" is the pinpoint middle. If ever stepped in this is where you would get the surrounding view.
+Project Descriptions 
+The pinpoint middle of the school is called "The Commons". If ever stepped in this is High School this is how the surrounding view would be like.
