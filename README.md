@@ -6,5 +6,4 @@ My project portfolio
 
 Project Descriptions 
 
-I chose the bus area because without the help of buses, alot of the students wouldn't get to school. The school district buses are very helpful!
-
+The pinpoint middle of the school is called the commons. I chose this area because once you enter the school that will be your guide!
