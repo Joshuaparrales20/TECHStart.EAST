@@ -7,3 +7,4 @@ My project portfolio
 
 Project Description
 
+The middle of the school called "the commons" is the pinpoint middle. If ever stepped in this is where you would get the surrounding view.
